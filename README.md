@@ -1,145 +1,161 @@
-##<h1 align="center">
-  Olá, eu sou Juan Souza Marques 👋
-</h1>
+### 👋 Olá, eu sou Juan Souza Marques
 
-<h3 align="center">
-💻 Software Developer in Progress | 🎓 ADS Student | 🚀 Future Software Engineer
-</h3>
+Me chamo **Juan Souza Marques** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente estou focado em desenvolver minhas habilidades em programação, criando projetos práticos para fortalecer minha base em desenvolvimento de software.
 
-<div align="center">
+Tenho interesse principalmente em **Back-end**, **Desenvolvimento Web** e **Python**, buscando sempre aprender novas tecnologias e aplicar boas práticas de programação.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Programação;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+Meu objetivo é conquistar uma oportunidade de estágio, evoluir como desenvolvedor e construir uma carreira internacional na área de tecnologia.
 
-</div>
+<p align="left">
+    <a href="https://github.com/juansouzamarques">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/juansouzamarques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 
----
-
-## 🚀 Sobre mim
-
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-
-📚 Atualmente estudando:
-
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- Banco de Dados
-- Git & GitHub
-
-🎯 Meu objetivo é me tornar um **Software Engineer**, desenvolvendo soluções de alto impacto e construindo uma carreira internacional.
+<a href="https://github.com/juansouzamarques?tab=repositories">
+        <img
+            alt="Repositórios"
+            title="Meus projetos"
+            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Projetos-0A66C2?style=for-the-badge&logo=repo&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+# 💻 Linguagens e Tecnologias
 
-<div align="center">
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,mysql,vscode,idea" />
+<img
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
 
-</div>
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img
+align="left"
+alt="GitHub"
+title="GitHub"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
+
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouzamarques&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=juansouzamarques&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=juansouzamarques&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 📂 Projetos em Destaque
+# 📂 Projetos
 
 🚀 **ATMOS**
 
-> Sistema inteligente de monitoramento de terrenos utilizando imagens SAR para prevenção de desastres naturais.
+Sistema inteligente de monitoramento de terrenos utilizando imagens de satélite SAR para auxiliar na prevenção de desastres naturais.
+
+🐍 **Projetos em Python**
+
+Automações, lógica de programação e pequenos sistemas desenvolvidos durante meus estudos.
+
+☕ **Projetos em Java**
+
+Aplicações voltadas para orientação a objetos, estruturas de dados e desenvolvimento Back-end.
 
 ---
 
-🤖 **Projetos Java**
+# 📊 Estatísticas
 
-Desenvolvimento de aplicações para fortalecer lógica de programação, orientação a objetos e boas práticas.
+<p>
 
----
+<img
+align="left"
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
-🐍 **Automações em Python**
+<img
+align="left"
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouzamarques&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
 
-Projetos voltados para automação de tarefas, análise de dados e produtividade.
+</p>
 
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juansouzamarques&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌎 Objetivos
-
-✔ Evoluir continuamente como desenvolvedor
-
-✔ Conquistar uma oportunidade internacional
-
-✔ Desenvolver projetos escaláveis
-
-✔ Aprender novas tecnologias constantemente
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
 ## 📫 Contato
 
-<div align="center">
-
-<a href="https://github.com/juansouzamarques">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+- GitHub: https://github.com/juansouzamarques
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=juansouzamarques&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Obrigado por visitar meu perfil!
-
-*"A evolução acontece um commit de cada vez."* 🚀
-
-</div>
+⭐ Obrigado por visitar meu perfil!
