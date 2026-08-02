@@ -105,38 +105,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 
 ---
 
-# 📂 Projetos
-
-🚀 **ATMOS**
-
-Sistema inteligente de monitoramento de terrenos utilizando imagens de satélite SAR para auxiliar na prevenção de desastres naturais.
-
-🐍 **Projetos em Python**
-
-Automações, lógica de programação e pequenos sistemas desenvolvidos durante meus estudos.
-
-☕ **Projetos em Java**
-
-Aplicações voltadas para orientação a objetos, estruturas de dados e desenvolvimento Back-end.
-
----
-
 # 📊 Estatísticas
 
-<p>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
 
-<img
-align="left"
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-align="left"
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouzamarques&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouzamarques&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
 </p>
 
 <br/>
