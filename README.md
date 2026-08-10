@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Juan Souza Marques
+#  Juan Souza Marques
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou focado em desenvolver minhas habilidades em programação por meio de projetos práticos e estudos constantes.
 
