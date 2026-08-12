@@ -28,8 +28,6 @@ Tenho interesse principalmente em:
 
 Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de desenvolvimento no meu dia a dia.
 
-> 🎯 **Objetivo:** conquistar uma oportunidade de estágio, evoluir como desenvolvedor(a) e construir uma carreira internacional na área de tecnologia.
-
 ---
 
 ## 💻 Linguagens e Tecnologias
@@ -52,23 +50,23 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juansouzamarques&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouzamarques&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=juansouzamarques&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=juansouzamarques&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=juansouzamarques&theme=tokyonight&no-frame=true&row=1&column=6"
+    src="https://github-contributor-stats.vercel.app/api?username=juansouzamarques&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
   />
 </p>
 
@@ -84,6 +82,4 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 
