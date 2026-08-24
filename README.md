@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá, eu sou o Juan Souza Marques 👋</h1>
 
 <p align="center">
@@ -50,11 +51,11 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=juansouzamarques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouzamarques&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=juansouzamarques&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -82,4 +83,3 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
