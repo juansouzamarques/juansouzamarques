@@ -1,8 +1,9 @@
-
-<h1 align="center">Olá, eu sou o Juan Souza Marques 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:236ad3,100:1155ba&height=200&section=header&text=Juan%20Souza%20Marques&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia e por transformar código em soluções reais.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=236AD3&center=true&vCenter=true&width=600&lines=Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais;Apaixonado+por+Back-end+%26+Web+Dev;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,40 +14,38 @@
       src="https://custom-icon-badges.demolab.com/github/followers/juansouzamarques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=juansouzamarques&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Visualizações do perfil"/>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente focado em desenvolver minhas habilidades em programação por meio de projetos práticos e estudos constantes.
-
-Tenho interesse principalmente em:
-
-- 🔧 **Back-end**
-- 🌐 **Desenvolvimento Web**
-- 🐍 **Python**
-
-Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de desenvolvimento no meu dia a dia.
+- 🔭 Atualmente desenvolvendo projetos práticos para fixar back-end e web
+- 🌱 Aprendendo constantemente novas tecnologias e boas práticas
+- 🎯 Objetivo: conquistar oportunidades de estágio com visão internacional
+- 💬 Me chama para falar sobre Java, Python ou desenvolvimento web
 
 ---
 
-## 💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <p align="left">
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Java" title="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="React" title="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Oracle" title="Oracle" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
@@ -60,9 +59,7 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=juansouzamarques&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://streak-stats.demolab.com/?user=juansouzamarques&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 </p>
 
 <p align="center">
@@ -73,13 +70,15 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 <p align="left">
-  <a href="https://github.com/juansouzamarques">
+  <a href="https://github.com/juansouzamarques" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/juan-marques-297b293b4/">
+  <a href="https://www.linkedin.com/in/juan-marques-297b293b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1155ba,100:236ad3&height=100&section=footer" width="100%"/>
