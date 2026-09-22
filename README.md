@@ -23,8 +23,7 @@
 
 - 🔭 Atualmente desenvolvendo projetos práticos para fixar back-end e web
 - 🌱 Aprendendo constantemente novas tecnologias e boas práticas
-- 🎯 Objetivo: conquistar oportunidades de estágio com visão internacional
-- 💬 Me chama para falar sobre Java, Python ou desenvolvimento web
+- 🎯 Objetivo: conquistar oportunidades de estágio e grandes conquistas profissionais 
 
 ---
 
