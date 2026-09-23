@@ -1,33 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:236ad3,100:1155ba&height=200&section=header&text=Juan%20Souza%20Marques&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:236ad3,100:1155ba&height=200&section=header&text=Juan%20Souza%20Marques&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Analysis%20and%20Development%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=236AD3&center=true&vCenter=true&width=600&lines=Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais;Apaixonado+por+Back-end+%26+Web+Dev;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=236AD3&center=true&vCenter=true&width=600&lines=Turning+code+into+real+solutions;Passionate+about+Back-end+%26+Web+Dev;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/juansouzamarques">
     <img 
-      alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/juansouzamarques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      alt="Followers"
+      title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/juansouzamarques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
     />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=juansouzamarques&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Visualizações do perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=juansouzamarques&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Profile views"/>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 About me
 
-- 🔭 Atualmente desenvolvendo projetos práticos para fixar back-end e web
-- 🌱 Aprendendo constantemente novas tecnologias e boas práticas
-- 🎯 Objetivo: conquistar oportunidades de estágio e grandes conquistas profissionais 
+- 🔭 Currently building practical projects to strengthen back-end and web development skills
+- 🌱 Constantly learning new technologies and best practices
+- 🎯 Goal: land internship opportunities and achieve major professional milestones
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages & Technologies
 
 <p align="left">
   <img alt="Java" title="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -69,7 +69,7 @@
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
   <a href="https://github.com/juansouzamarques" target="_blank">
